@@ -1,1 +1,1 @@
-This repo is about auth system
+This repo is about authentication system study
